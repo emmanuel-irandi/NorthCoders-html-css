@@ -1,0 +1,51 @@
+body{
+    background-color: gray;
+    margin: 35px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.secondEmoji{
+   width: 150px;
+   padding: 3px;
+   border: 4px rgb(171, 212, 255);
+   background-color: gold;
+   border-radius: 25px;
+
+}
+
+h1{
+    font-family:'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family:'Courier New', Courier, monospace;
+}
+
+h3{
+    font-family:'Courier New', Courier, monospace;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+pre{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.unorderedList{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color:white;
+}
+.orderedList{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: white;
+}
+a{
+    font-size: larger;
+    font-style: oblique;
+}
